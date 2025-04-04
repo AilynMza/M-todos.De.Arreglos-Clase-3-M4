@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding : 0;
+    box-sizing: border-box;
+    font-size: 16px;
+    color: #31141a;
+}
+
+html{
+    background-color: #9a5564; 
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header {
+    display: flex;    
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    padding: 16px;
+    background-color: #9a5564;
+}
+
+body{
+    margin: 2rem;
+    border-radius: 2rem;
+}
+
+h1{
+    font-size: 2rem;
+    color: rgb(255, 255, 255);
+
+}
+
+.container-products{
+    padding: 2rem;
+    border-radius: 2rem;
+    background-color: #f0e6de;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.container-products h2{
+    font-size: 1.4rem;
+    color: #706266;
+    margin-bottom: 1rem;
+}
