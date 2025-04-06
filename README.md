@@ -6,11 +6,11 @@ Este proyecto consiste en la práctica del manejo de arreglos de objetos en Java
 
 ## Enlace del repositorio
 
-[GitHub - Proyecto Métodos de arreglos Clase 3](https://github.com/AilynMza/Estructuras.de.Datos-Clase-2-M4)
+[GitHub - Proyecto Métodos de arreglos Clase 3](https://github.com/AilynMza/Metodos.De.Arreglos-Clase-3-M4)
 
 ## Enlace del GitHub Pages
 
-[GitHub Pages - Proyecto Métodos de arreglos Clase 3](https://ailynmza.github.io/Estructuras.de.Datos-Clase-2-M4/)
+[GitHub Pages - Proyecto Métodos de arreglos Clase 3](https://ailynmza.github.io/Metodos.De.Arreglos-Clase-3-M4/)
 
 ## Conclusión
 
